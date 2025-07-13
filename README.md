@@ -35,4 +35,13 @@ Authentication: JWT / Firebase Auth
 📱 Screenshots
 # On Boarding
 
+<br/>
+
+
+<p float="left" align="center">
+  <img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/a01c466a9f0cca36319d7f407cee631aab352fa0/Screenshot_20250713_234918.png" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/a01c466a9f0cca36319d7f407cee631aab352fa0/Screenshot_20250713_235038.png" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/a01c466a9f0cca36319d7f407cee631aab352fa0/Screenshot_20250713_235112.png" width="200" style="margin-right:10px;" />
+  <img src="https://github.com/Kazan-2-magma/RS-Business-App/blob/a01c466a9f0cca36319d7f407cee631aab352fa0/Screenshot_20250713_235143.png" width="200" />
+</p>
 
