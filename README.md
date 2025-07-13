@@ -33,5 +33,6 @@ State Management: Bloc
 Authentication: JWT / Firebase Auth 
 
 📱 Screenshots
-(Insert some screenshots or screen recordings here of the app UI)
+# On Boarding
+
 
